@@ -1,6 +1,6 @@
 # API
 
-API Básica, apenas para demonstrar conhecimentos.
+Aplicação de API com função de Cadastro / Login de Usuários
 ### Tecnologias:
 - Java
 - Spring Framework
