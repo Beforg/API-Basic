@@ -24,9 +24,3 @@ Após o cadastro, podemos fazer Login, isso retornará um Token de acesso ao usu
 Podemos agendar os cortes, faltou a parte das validações, pois era apenas para um primeiro teste de conhecimentos.
 
 ![](https://github.com/Beforg/assets/blob/main/api/consulta.png)
-
-
-### Considerações finais:
-
-Projeto muito simples, primeiro dos próximos que quero desenvolver com o spring, dexei a parte de cancelamento de corte, exclusão lógica de conta e algumas outras validações
-pois não tive tempo de concluir por causa dos estudos.
